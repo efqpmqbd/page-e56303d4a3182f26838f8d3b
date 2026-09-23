@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b915c6ea387aeddf107ed419",
+  "owner": "efqpmqbd",
+  "repo": "page-e56303d4a3182f26838f8d3b",
+  "title": "小飞象(Blizzard)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e56303d4a3182f26838f8d3b",
+      "a": "小飞象(Blizzard)",
+      "b": "2027最新官网",
+      "entity": "小飞象(Blizzard)",
+      "brand": "小飞象(Blizzard)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "30b53cf056bd3da92347ced633d49b6dc05367324501393bc45046a13cad3dfd",
+      "content": {
+        "primary_entity": "小飞象(Blizzard)",
+        "keyword1": "小飞象(Blizzard)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，完成订阅导入后启用加速。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选择套餐，导入订阅后即可在各客户端使用。",
+          "AI_CLOSING_TITLE": "选对套餐，快速启用",
+          "AI_DESCRIPTION": "，围绕套餐选择、设备数量与订阅配置展开介绍，帮助不同使用场景的用户快速对比基础版、旗舰版与团队版，理解月付和年付的差异，并找到适合自己设备的客户端工具完成订阅导入。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与线路类型三个角度拆解选择逻辑。",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人日常浏览与轻量流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，IPLC 专线更适合游戏与高清视频。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，适合多人共享或小型办公场景。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备选择",
+          "AI_FEATURE_TITLE_3": "按线路选择",
+          "AI_GUIDE_INTRO": "先确认设备数量与月均流量，再选择计费周期并导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "小飞象(Blizzard)提供基础版、旗舰版与团队版三档套餐，覆盖单设备轻量使用到多设备团队共享，月付与年付均可选择，导入订阅后即可在对应客户端启用网络加速。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案折算更划算",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏体验",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版兼顾游戏与流媒体，团队版面向多设备共享。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版和团队版之间确定一档。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备数量与线路说明，确认与自己的设备和用途匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照对应客户端文档完成订阅导入与连接设置，即可开始使用。",
+          "AI_STEP_TITLE_3": "导入订阅并连接",
+          "AI_VISUAL_TITLE": "小飞象加速器套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞象(Blizzard)套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数与每月流量需求选择：3 台设备选基础版，5 台设备且需要流媒体与专线选旗舰版，20 台设备或协作场景选团队版。",
+          "AI_FAQ_QUESTION_2": "Clash 客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "在 Clash 客户端配置页面找到订阅导入入口，粘贴订阅链接后更新配置，客户端会读取节点与规则信息。具体路径可参照所选客户端版本的文档。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以多少台设备使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备共用时建议按实际终端数量选择对应档位。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按 ¥15、¥35、¥85 逐月结算，年付分别约 ¥150、¥350、¥850。长期使用可选年付，短期体验可选月付。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "可在下一计费周期恢复额度，或提前升级到更高流量的套餐。旗舰版与团队版的流量额度分别为 300GB 和 1000GB，适合更高强度的使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2tun-h02iv96g.com",
+    "host": "xn--v2tun-h02iv96g.com"
+  },
+  "file_hashes": {
+    "index.html": "dd78f98b2d1ab621259e90e34c43c42bd2e447bfe67f54705ca088bc0e000025",
+    "sitemap.xml": "915d5ead357440e1e94151bb9fa91200833662acf4726df0ebb3faf9c9a3d6e3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a9da5b3bec1da4899558d4564f554b3b5462b2f7204036a4d3018113eeebcc96",
+    "robots.txt": "c12671196ad6d865259596809354e582b9bc34a6dd763098a4c1cf43e1566aae",
+    "558c0af2fa761e9b233c394b5ad6df92.txt": "b4cd5b2e80766b74f9aa976f55a3028dc0ef17e4079bff252f52921e221f188c"
+  },
+  "revision": "217d1d10549d19d86363e15ed2090cfe963c153471ade40283af6ff039a848b8"
+}
